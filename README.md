@@ -9,7 +9,7 @@
  - If you are having trouble with installation, you can also try out a pre-configured VM like <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab</a>.
  
  ## How does it works!!
- - first of all, you have to upload images in the folder. after that you have to train model according to your images through <a herf="https://github.com/rushitbhadaniya/Face-Recognition/blob/master/face%20recognition/Face_Recognition.ipynb">face_recognition.ipynb</a>. After that, you have to test other images to check model is working or not.
+ - first of all, you have to upload images in the folder. after that you have to train model according to your images through <a href="https://github.com/rushitbhadaniya/Face-Recognition/blob/master/face%20recognition/Face_Recognition.ipynb">face_recognition.ipynb</a>. After that, you have to test other images to check model is working or not.
  
  ## Output
  
