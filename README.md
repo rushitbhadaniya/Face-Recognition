@@ -7,3 +7,8 @@
 
  - pip3 install face_recognition
  - If you are having trouble with installation, you can also try out a pre-configured VM like <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab</a>.
+ 
+ 
+ ## Output
+ 
+<img src="https://github.com/rushitbhadaniya/Face-Recognition/blob/master/face%20recognition/identified.jpg">
