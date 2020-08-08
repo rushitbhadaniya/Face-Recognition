@@ -19,7 +19,7 @@ import face_recognition
 
 !nvidia-smi
 
-image = face_recognition.load_image_file("people.jpg")
+image = face_recognition.load_image_file("rushit.jpeg")
 
 # Find all the faces in the image
 face_locations = face_recognition.face_locations(image)
@@ -41,12 +41,10 @@ for face_location in face_locations:
     draw = PIL.ImageDraw.Draw(pil_image)
     draw.rectangle([left, top, right, bottom], outline="red")
     img=pil_image.crop((left,top,right,bottom))
-    img.save('people_'+str(n)+ext,)
+    img.save('person_'+str(n)+ext,)
     n+=1
     
 
 # Display the image on screen
 pil_image.show()
-
-pil_image
 
